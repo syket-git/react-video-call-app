@@ -1,8 +1,5 @@
-# React + Vite
+# React Video Call App | React Beginner Projects & Portfolio | ZEGOCLOUD
+Hey Everyone, In this video, we are going build our own one-on-one video calling application using React and Zegocloud.
+- YouTube Video: https://youtu.be/QudGv_1FgxM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Build a One on One Video Call App - React  ZEGOCLOUD](https://github.com/user-attachments/assets/7d30bc87-8443-4e8e-a33d-7591cc0594d8)
